@@ -1,0 +1,288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"static"
+			],
+			[
+				"re",
+				"response1"
+			],
+			[
+				"xm",
+				"xml_post_string"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"fun",
+				"function_exists"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"nam",
+				"name_function"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"stri",
+				"stristr"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"name",
+				"name_page"
+			],
+			[
+				"error",
+				"errors"
+			],
+			[
+				"Pa",
+				"PageIncludeHeader"
+			],
+			[
+				"includes",
+				"includes"
+			],
+			[
+				"B",
+				"BiScaffoldInitial_CreateDir"
+			],
+			[
+				"BI",
+				"BiScaffold"
+			],
+			[
+				"Bi",
+				"BiScaffoldInicia"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"rou",
+				"routes_scaffold"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/trabajo/turner/sites/all/themes/tps/templates/node.tpl.php",
+		"/C/trabajo/turner/sites/all/themes/tps/templates/node--synopsis.tpl.php",
+		"/C/trabajo/turner/sites/all/themes/tps/templates/node--media_release.tpl.php",
+		"/C/trabajo/turner/sites/all/modules/custom/tps_core/tps_core.module",
+		"/C/trabajo/turner/sites/all/modules/custom/tps_search/templates/tps-search-landing-global-result.tpl.php",
+		"/C/trabajo/turner/sites/all/modules/custom/tps_search/tps_search.module",
+		"/C/trabajo/turner/sites/all/themes/tps/css/global.css",
+		"/C/trabajo/turner/sites/all/modules/custom/tps_core/includes/views/tps_core.views_default.inc",
+		"/C/trabajo/BI/svn/Striverdi/Striverdi_Website/Production/splash_page/laravel/trunk/app/views/register/index.blade.php",
+		"/C/trabajo/BI/svn/Striverdi/Striverdi_Website/Production/splash_page/laravel/trunk/app/models/RegistrationForm.php",
+		"/C/trabajo/BI/svn/Striverdi/Striverdi_Website/Production/splash_page/laravel/trunk/app/controllers/RegistrationFormController.php",
+		"/C/trabajo/BI/svn/Striverdi/Striverdi_Website/Production/splash_page/laravel/trunk/app/routes.php",
+		"/C/trabajo/BI/svn/Striverdi/Striverdi_Website/Production/splash_page/laravel/trunk/app/views/form.blade.php",
+		"/C/trabajo/BI/svn/Striverdi/Striverdi_Website/Production/splash_page/laravel/trunk/public/js/forms.js",
+		"/C/trabajo/BI/svn/Striverdi/Striverdi_Website/Production/splash_page/laravel/trunk/app/config/app.php",
+		"/C/trabajo/BI/svn/Striverdi/Striverdi_Website/Production/splash_page/laravel/trunk/app/views/form2/index.blade.php",
+		"/C/trabajo/BI/svn/Striverdi/Striverdi_Website/Production/splash_page/laravel/trunk/public/js/script.js",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/layouts/master.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/includes/main_nav.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/controllers/PageController.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/treatmentoptions.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/sitemap.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/constipationandgasrelief.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/routes.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/stoolsoftener.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/laxatives.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/preventconstipation.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/home.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/FAQ.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/DulcolaxSuppository.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/dulcolaxlaxativeforwomen.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/dulcoglideapplicators.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/DulcoGasgasrelief.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/DulcoEase.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/colonoscopyprep.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/Dulcolaxcoupon.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/vendor/template_Bi/PageIndex.txt",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/includes/bread_crumb.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/errors/404.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/vendor/template_Bi/error.txt",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/vendor/template_Bi/master.txt",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/includes/footer.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/commands/BiScaffoldPage.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/includes/share_meta_tags.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/views/pages/colonoscopy-prep.blade.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/start/artisan.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/commands/BiScaffoldInitial.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/vendor/template_Bi/global.txt",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/vendor/template_Bi/PageController.txt",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/vendor/template_Bi/route.txt",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/vendor/template_Bi/global_replace.txt",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/vendor/template_Bi/config_global.txt",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/controllers/BaseController.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/controllers/HomeController.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/vendor/template_Bi/master.html",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/commands/BiScaffoldInicia.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/commands/UserGeneratorCommand.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/app/commands/UserGenerateCommand.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/workbench/hogarth/bi-scaffold/src/Hogarth/BiScaffold/BiScaffoldServiceProvider.php",
+		"/C/trabajo/BI/svn/Dulcolax/Production/laravel/trunk/site/workbench/hogarth/bi-scaffold/src/Hogarth/BiScaffold/Generators/CreateInitial.php",
+		"/C/Users/dramirez/Desktop/tps_drupal_20140221/drupal_tps_1220pm.sql"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"teaser_search_list",
+			"tps_search_landing_global_query",
+			"tps_search_landing_get_results",
+			"_tps_core_get_brand_image_last_content_view",
+			"name",
+			"card-id-form1",
+			"click",
+			"validar",
+			"sitema",
+			"constipationandgasrelief",
+			"commo",
+			"DulcoGasgasrelief",
+			",",
+			"meta_robots"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"keywords"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true
+}
